@@ -16,7 +16,31 @@ to offer faster innovation ,flexible resources and economies of scale .
  - less control over underlying cloud infrastructure
  - intergration complexity with existing system
  - concerns about security risks like data privacy
- - unforeseen costs and unexpected expenses 
+ - unforeseen costs and unexpected expenses
+
+- ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/09c65ee7-6035-4c3f-bf7b-490bf41c2520)
+- ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/efad10f0-ba59-4e69-8594-ee7d2cff1952)
+
+- cloud service models :
+- Iaas : Infrastructure as a service
+- Paas : Platform as a service 
+- Saas : Software as a service 
+- ![SERVICES](C:\Users\MY\Downloads\b18444c1-ac41-42d8-8307-2b6fbe17cc0a.jpg)
+- 
+
+## **Amazon Web Services (AWS)**
+- is the world's most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally.
+-  Millions of customers - including the fastest-growing startups, largest enterprises, and leading government agencies are using AWS to lower costs, become more agile, and innovate faster
+
+-  ### Compute services
+-  Elastic compute services -EC2
+-  ECS/EKS - containerized servies (for linux)
+-  Lambda - Serverless
+  ### Storage services 
+ - Simple storage services -S3
+ - Elastic Block Store -EBS
+ - Elastic File System - EFS
+ - Archival Services - Glacier
   
 ## Diff btw block storage and object storage 
 #### Block storage - storage that can be formatted at a later point of time , associated/ attached with os ,so os formats this storage acc to its convinence .
@@ -35,5 +59,8 @@ to offer faster innovation ,flexible resources and economies of scale .
 - Ios - input output per sec 
 - **Elastic file system (EFS)**: only works with Linux , 
 - Archival services  Glaciers - cheapest  storage, stores data that is not required at urgent need ime real time , takes time to reload data probably one day .
+### Network Services 
 - Virtual private cloud -(vpc) provided on a hyperscaler  ,uses private ip
+- Domain Name Services - Route 53
+- Direct connect 
 - 
