@@ -6,7 +6,7 @@ everything to know about aws -beginners
 to offer faster innovation ,flexible resources and economies of scale .
 ### Benefits of cloud computing :
 - faster time to market 
--scalable and flexible
+- scalable and flexible
 - cost saving
 - better collaborations
 - advanced security
@@ -24,8 +24,8 @@ to offer faster innovation ,flexible resources and economies of scale .
 - cloud service models :
 - Iaas : Infrastructure as a service
 - Paas : Platform as a service 
-- Saas : Software as a service 
-- ![SERVICES](C:\Users\MY\Downloads\b18444c1-ac41-42d8-8307-2b6fbe17cc0a.jpg)
+- Saas : Software as a service
+- 
 - 
 
 ## **Amazon Web Services (AWS)**
@@ -63,4 +63,10 @@ to offer faster innovation ,flexible resources and economies of scale .
 - Virtual private cloud -(vpc) provided on a hyperscaler  ,uses private ip
 - Domain Name Services - Route 53
 - Direct connect 
-- 
+###
+- sqs- quequing service
+- bracket-
+- code build -is a build tool ,used for those languages which needs compilation
+- rds
+- cloud trail- auditing of your aws account 
+- sns- notification service 
