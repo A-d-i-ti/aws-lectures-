@@ -69,4 +69,10 @@ to offer faster innovation ,flexible resources and economies of scale .
 - code build -is a build tool ,used for those languages which needs compilation
 - rds
 - cloud trail- auditing of your aws account 
-- sns- notification service 
+- sns- notification service
+- code commit - managed service of git taken over by aws
+- aws comprehend - tells which kind of text it is,the sentiments of the text ..whether optimistic eg: customer care
+- amazon polly -converts text to spoken language
+- amazon lex - converts spoken words to text
+- text track - optical character recorginisation (ocr),
+- 
