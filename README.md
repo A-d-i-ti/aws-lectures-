@@ -110,4 +110,7 @@ everything to know about aws -beginners
 - ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/d7c285ba-eec5-453e-9315-26b775498301)
 
 
-  ### autoscaling : 
+  ### autoscaling :
+  - self-healing implementation for dynamic load
+  - can create and terminate instances automaticallu
+  - manual scaling : 
