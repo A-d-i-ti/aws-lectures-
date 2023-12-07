@@ -2,8 +2,10 @@
 everything to know about aws -beginners 
 
 ## what is cloud computing ?!
-- cloud computing is the delivery of computing services -including servers ,storage,databases,networking, software ,analytics and intelligence - over the internet ('the cloud ')
-to offer faster innovation ,flexible resources and economies of scale .
+- cloud computing is the delivery of computing services -
+- including servers ,storage,databases,networking, software ,analytics and intelligence - over the internet ('the cloud ')
+- offer faster innovation ,flexible resources and economies of scale .
+  
 ### Benefits of cloud computing :
 - faster time to market 
 - scalable and flexible
@@ -11,6 +13,7 @@ to offer faster innovation ,flexible resources and economies of scale .
 - better collaborations
 - advanced security
 - data loss prevention
+
 ### Disadvantages of using cloud 
  - risk of vendor lock in
  - less control over underlying cloud infrastructure
@@ -75,4 +78,36 @@ to offer faster innovation ,flexible resources and economies of scale .
 - amazon polly -converts text to spoken language
 - amazon lex - converts spoken words to text
 - text track - optical character recorginisation (ocr),
-- 
+
+### load balancer : implementation of horizontal scaling , required for high availability 
+- type of load balancer :
+- 1. classical load balancer - layer 4&7
+  2. application load balancer - layer 7
+  3. network load balancer - layer 4
+
+  layer 7 - load balancer
+  tls= transport layer security 
+ - amazon linux - red hat
+ - ubuntu - debian
+
+ - ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/8883a73f-a64f-4709-bd1a-2295842e33f9)
+
+ - connection -SSH  using putty : 
+ - ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/ca6a11ed-f933-4a80-b4da-d613fc32e6bb)
+
+ -####  installing nginx
+ - sudo su;
+ - sudo update ;
+ - apt install nginx ;
+ - ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/0148a789-31d2-4d7b-81d9-6e8c5eaaf4a1)
+
+### creating load balancer 
+##### creating target group :
+-![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/3d8a5f86-8587-4688-8a1e-3abad9184d0e)
+-![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/f1894d00-a6a0-41c7-8a58-b6e08067de8f)
+
+
+- ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/d7c285ba-eec5-453e-9315-26b775498301)
+
+
+  ### autoscaling : 
