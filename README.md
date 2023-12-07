@@ -135,6 +135,18 @@ everything to know about aws -beginners
 - a dynamic scaling policies created: 
 - ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/575a66a9-9b13-46a8-b493-74c702b98912)
 
+### vpc: virtual private cloud 
+- private isolated network to deploy your resources
+- SUBNETs allow to partition your netwok within VPC - encrypted tunnel
+- type of subnet :
+   + private - cannot recieve traffic from outer world [internet]
+   + public - accessible from the internet
+- route table -
+- **Internet gateway : IGW ** helps our vpc instance connect with internet
+- **NAT GATEWAY : self managed **
+
+- ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/dc1996f0-5aba-47b6-8c99-2fc63b552ec8)
+
 
 
 
