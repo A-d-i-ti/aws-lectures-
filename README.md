@@ -113,4 +113,28 @@ everything to know about aws -beginners
   ### autoscaling :
   - self-healing implementation for dynamic load
   - can create and terminate instances automaticallu
-  - manual scaling : 
+  - manual scaling :
+  - auto scaling grp
+  - launch template- what kind of instance to be generated 
+  - alarm : information after a certain threshold 
+ 
+- Cloud watch : monitoring service ,provides system level monitoring by default ;hardware basically not application
+
+- creating a launch template :
+- ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/f38d43e9-ba27-4b25-86b5-dfd7aa5828a0)
+
+- creating auto scaling :
+- ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/cccdc48f-8362-4421-8697-ce8a6cb6d519)
+
+- creating an alarm :
+- autoscaling--- monitoring --ec2-- cpu ---bell icon 
+-![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/08dc811f-2ea9-43a8-94e2-f2720d7bd64d)
+
+- ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/d71525b6-3be6-46f2-9a49-60a826af438c)
+
+- a dynamic scaling policies created: 
+- ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/575a66a9-9b13-46a8-b493-74c702b98912)
+
+
+
+
