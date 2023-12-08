@@ -164,6 +164,14 @@ Way of representation,we don't use net mass ,just represent using number based
 + Failure over startegy -
 1 . active -passive failover startegy
   -![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/6d034926-416f-4892-a408-66109b0ff94e)
+  #### Creating cloudformation:
+  --- creating role for cloud formation :
+  - ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/8052cdfe-fafc-4da8-9ebf-335d8bc02ad0)
+  - ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/9051df29-0780-428e-bb5f-6bb0805aab52)
+ 
+  - ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/6ced931d-7c3d-43a6-9bee-e2e3b9aac9c3)
+
+
 
   -![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/5eb10c11-2b68-4fa6-8f62-e0200050b3e1)
 
