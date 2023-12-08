@@ -44,6 +44,10 @@ everything to know about aws -beginners
  - Elastic Block Store -EBS
  - Elastic File System - EFS
  - Archival Services - Glacier
+
+ - creating S3 bucket :
+ - ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/cae38cad-03ab-4775-93c9-7bba4b72bab6)
+
   
 ## Diff btw block storage and object storage 
 #### Block storage - storage that can be formatted at a later point of time , associated/ attached with os ,so os formats this storage acc to its convinence .
@@ -135,6 +139,7 @@ everything to know about aws -beginners
 - a dynamic scaling policies created: 
 - ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/575a66a9-9b13-46a8-b493-74c702b98912)
 
+
 ### vpc: virtual private cloud 
 - private isolated network to deploy your resources
 - SUBNETs allow to partition your netwok within VPC - encrypted tunnel
@@ -146,6 +151,15 @@ everything to know about aws -beginners
 - **NAT GATEWAY : self managed **
 
 - ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/dc1996f0-5aba-47b6-8c99-2fc63b552ec8)
+
+- - **Cloud 9 :**
+- cloud based -ide ,integrated development environment , that lets us - write ,run ,debug our code with juat a browser
+- code editor,debugger, terminal 
+- - **Pod Limit :**
+  - maximum number of pod allowed in an EC2 instance 
+###   EKS MANAGEMENT Nodegroup :
+- create and manages EC2
+- automated 
 
 
 
