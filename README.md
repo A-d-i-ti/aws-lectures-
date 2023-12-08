@@ -36,7 +36,7 @@ everything to know about aws -beginners
 -  Millions of customers - including the fastest-growing startups, largest enterprises, and leading government agencies are using AWS to lower costs, become more agile, and innovate faster
 
 -  ### Compute services
--  Elastic compute services -EC2
+-  Elastic compute cloud -EC2
 -  ECS/EKS - containerized servies (for linux)
 -  Lambda - Serverless
   ### Storage services 
