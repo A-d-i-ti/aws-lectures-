@@ -152,6 +152,28 @@ everything to know about aws -beginners
 
 - ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/dc1996f0-5aba-47b6-8c99-2fc63b552ec8)
 
+- Cidr - classless interdomain routing 
+Way of representation,we don't use net mass ,just represent using number based
+
+-![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/cf026c4a-8117-4859-a3de-ea585dfa908f)
+
++ **Blue green deployment** -we can make zero down time deployment eg: any new update in the application is to be deployed. 
++ **Canery deployment**- create new architecture, already have old architecture..phase wise deployment..eg: what'sapp polling feature.
++ ![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/ef81c83a-1a49-4d16-8207-e5de3684f9c1)
+
++ Failure over startegy -
+1 . active -passive failover startegy
+  -![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/6d034926-416f-4892-a408-66109b0ff94e)
+
+  -![image](https://github.com/A-d-i-ti/aws-lectures-/assets/142913419/5eb10c11-2b68-4fa6-8f62-e0200050b3e1)
+
+- **Containers**,- just like vm but don't have their own kernal ,they use kernal of the host 
+- They are light weight 
+- **Containerisation -** development to production directly without deployment.
+- C group - give ability to control the resources.
+Eg . giving 2 GB ram ..so only 2 GB is deployed is checked by c group .
+- Namespace -
+
 - - **Cloud 9 :**
 - cloud based -ide ,integrated development environment , that lets us - write ,run ,debug our code with juat a browser
 - code editor,debugger, terminal 
